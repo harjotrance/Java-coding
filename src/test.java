@@ -6,8 +6,7 @@ public class test {
         // label first
         first:
         {
-            // Illegal statement here as label second is not
-            // introduced yet break second;
+
             second:
             {
                 third:
