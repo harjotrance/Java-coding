@@ -47,6 +47,6 @@ public class MegaBytesConverter {
         }
     }
     public static void main(String[] args) {
-        printMegaBytesAndKiloBytes( 3000);
+        printMegaBytesAndKiloBytes( 4000);
     }
 }
