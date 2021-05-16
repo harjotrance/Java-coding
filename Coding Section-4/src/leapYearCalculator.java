@@ -37,7 +37,7 @@
 
 public class leapYearCalculator {
     public static void main(String[] args) {
-        System.out.println(isLeapYear( 1997));
+        System.out.println(isLeapYear( 1998));
     }
 
      public static boolean isLeapYear(int year) {

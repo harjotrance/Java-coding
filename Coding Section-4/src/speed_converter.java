@@ -99,9 +99,9 @@ public class speed_converter {
 
     public static void main(String[] args) {
 
-        printConversion( 30);
+        printConversion( 40);
 
-        System.out.println(toMilesPerHour(30 ) + " mi/h ");
+        System.out.println(toMilesPerHour(40 ) + " mi/h ");
     }
 
 

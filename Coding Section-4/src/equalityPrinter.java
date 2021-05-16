@@ -23,7 +23,7 @@
 public class equalityPrinter {
 
     public static void main(String[] args) {
-        printEqual( 23,23,64);
+        printEqual( 23,23,63);
     }
     public static void printEqual(int firstParameter, int secondParameter, int thirdParameter) {
         if (firstParameter < 0 || secondParameter < 0 || thirdParameter < 0) {

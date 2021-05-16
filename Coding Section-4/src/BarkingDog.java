@@ -33,7 +33,7 @@ public class BarkingDog {
 
     public static void main(String[] args) {
 
-        System.out.println(shouldWakeUp(true , 9));
+        System.out.println(shouldWakeUp(true , 10));
     }
 
         public static boolean shouldWakeUp(boolean barking, int hourOfDay) {

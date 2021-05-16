@@ -20,7 +20,7 @@
 
 public class DecimalComparator {
     public static void main(String[] args) {
-        System.out.println(areEqualByThreeDecimalPlaces( 567.4567 , 567.4567 ) );
+        System.out.println(areEqualByThreeDecimalPlaces( 568.4567 , 568.4567 ) );
     }
 
         public  static  boolean areEqualByThreeDecimalPlaces(double firstValue, double secondValue){

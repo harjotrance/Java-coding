@@ -13,7 +13,7 @@
 
 public class EqualSum {
     public static void main(String[] args) {
-        System.out.println(hasEqualSum(4,5,9));
+        System.out.println(hasEqualSum(4,5,10));
     }
         public static boolean hasEqualSum(int firstParameter, int secondParameter, int thirdParameter){
             if((firstParameter + secondParameter) == thirdParameter){
