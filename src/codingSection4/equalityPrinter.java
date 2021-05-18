@@ -1,4 +1,4 @@
-//Write a method printEqual with 3 parameters of type int. The method should not return anything (void).
+package codingSection4;//Write a method printEqual with 3 parameters of type int. The method should not return anything (void).
 //
 //If one of the parameters is less than 0, print text "Invalid Value".
 //

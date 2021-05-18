@@ -21,6 +21,7 @@
 //* area(5.0, 4.0); should return 20.0 (5 * 4 = 20)
 //
 //* area(-1.0, 4.0);  should return -1 since first the parameter is negative
+package codingSection4;
 
 public class areaCalculator {
     public static void main(String[] args) {

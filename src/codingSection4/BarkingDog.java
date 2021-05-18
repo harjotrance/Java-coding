@@ -26,7 +26,7 @@
 //
 //NOTE: The shouldWakeUp method  needs to be defined as public static like we have been doing so far in the course.
 
-
+package codingSection4;
 
 
 public class BarkingDog {
