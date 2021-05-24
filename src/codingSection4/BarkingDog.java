@@ -26,14 +26,14 @@
 //
 //NOTE: The shouldWakeUp method  needs to be defined as public static like we have been doing so far in the course.
 
-package codingSection4;
+
 
 
 public class BarkingDog {
 
     public static void main(String[] args) {
 
-        System.out.println(shouldWakeUp(true , 10));
+        System.out.println(shouldWakeUp(true , 9));
     }
 
         public static boolean shouldWakeUp(boolean barking, int hourOfDay) {
