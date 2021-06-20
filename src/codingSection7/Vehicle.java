@@ -2,7 +2,7 @@ package codingSection7;
 
 public class Vehicle {
 
-    public class Car {
+    public static class Car {
 
         private boolean engine;
         private int cylinders;
